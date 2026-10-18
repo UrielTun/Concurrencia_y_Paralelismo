@@ -26,39 +26,39 @@ Después realicé las pruebas con 100,000, 1,000,000 y 10,000,000 de elementos. 
 
 
 
-Flujo utilizado     Ejec. 1 (ms)      Ejec. 2 (ms)        Ejec. 3 (ms)       Promedio (ms)
+Flujo utilizado     |Ejec. 1 (ms)|      |Ejec. 2 (ms)|        |Ejec. 3 (ms)|       |Promedio (ms)|
 
 
 
-FileWriter          44.194            37.965              47.368             43.176
+FileWriter          |44.194|            |37.965|              |47.368|             |43.176|
 
 
 
-BufferedWriter      13.223            23.288              19.640             18.717
+BufferedWriter      |13.223|            |23.288|              |19.640|             |18.717|
 
 
 
-FileReader          49.855            60.965              61.763             57.528
+FileReader          |49.855|            |60.965|              |61.763|             |57.528|
 
 
 
-BufferedReader      12.893            12.538              9.948              11.793
+BufferedReader      |12.893|            |12.538|              |9.948|              |11.793|
 
 
 
-FileOutputStream    277.610           323.971             247.645            283.075
+FileOutputStream    |277.610|           |323.971|             |247.645|            |283.075|
 
 
 
-BufferedOutputStream 5.885             6.033              7.687              6.535
+BufferedOutputStream |5.885|             |6.033|              |7.687|              |6.535|
 
 
 
-FileInputStream      159.060           159.874            154.506            157.813
+FileInputStream      |159.060|           |159.874|            |154.506|            |157.813|
 
 
 
-BufferedInputStream  5.831             5.160              5.892              5.628
+BufferedInputStream  |5.831|             |5.160|              |5.892|              |5.628|
 
 
 
@@ -66,39 +66,39 @@ BufferedInputStream  5.831             5.160              5.892              5.6
 
 
 
-Flujo utilizado     Ejec. 1 (ms)      Ejec. 2 (ms)        Ejec. 3 (ms)       Promedio (ms)
+Flujo utilizado     |Ejec. 1 (ms)|      |Ejec. 2 (ms)|        |Ejec. 3 (ms)|       |Promedio (ms)|
 
 
 
-FileWriter          200.223           164.431             165.333            176.662
+FileWriter          |200.223|           |164.431|             |165.333|            |176.662|
 
 
 
-BufferedWriter      80.971            86.061              87.521             84.851
+BufferedWriter      |80.971|            |86.061|              |87.521|             |84.851|
 
 
 
-FileReader          490.318           440.522             477.109            469.316
+FileReader          |490.318|           |440.522|             |477.109|            |469.316|
 
 
 
-BufferedReader      52.633            61.880              43.747             52.753
+BufferedReader      |52.633|            |61.880|              |43.747|             |52.753|
 
 
 
-FileOutputStream    2453.640          2375.001            2358.348           2395.663
+FileOutputStream    |2453.640|          |2375.001|            |2358.348|           |2395.663|
 
 
 
-BufferedOutputStream 26.992           27.176              26.734             26.967
+BufferedOutputStream |26.992|           |27.176|              |26.734|             |26.967|
 
 
 
-FileInputStream     1457.323          1455.331            1447.377           1453.344
+FileInputStream     |1457.323|          |1455.331|            |1447.377|           |1453.344|
 
 
 
-BufferedInputStream 25.199            27.130              25.063             25.797
+BufferedInputStream |25.199|            |27.130|              |25.063|             |25.797|
 
 
 
@@ -106,39 +106,39 @@ BufferedInputStream 25.199            27.130              25.063             25.
 
 
 
-Flujo utilizado     Ejec. 1 (ms)      Ejec. 2 (ms)        Ejec. 3 (ms)       Promedio (ms)
+Flujo utilizado     |Ejec. 1 (ms)|      |Ejec. 2 (ms)|        |Ejec. 3 (ms)|       |Promedio (ms)|
 
 
 
-FileWriter          1421.339          1352.426            1292.284           1355.350
+FileWriter          |1421.339|          |1352.426|            |1292.284|           |1355.350|
 
 
 
-BufferedWriter      701.569           689.388             638.797            676.585
+BufferedWriter      |701.569|           |689.388|             |638.797|            |676.585|
 
 
 
-FileReader          4198.207          4068.792            4023.505           4096.835
+FileReader          |4198.207|          |4068.792|            |4023.505|           |4096.835|
 
 
 
-BufferedReader      425.064           410.390             418.158            417.871
+BufferedReader      |425.064|           |410.390|             |418.158|            |417.871|
 
 
 
-FileOutputStream    22746.958         22654.265           22343.785          22581.669
+FileOutputStream    |22746.958|         |22654.265|           |22343.785|          |22581.669|
 
 
 
-BufferedOutputStream 241.849          249.159             249.913            246.974
+BufferedOutputStream 241.849          |249.159|             |249.913|            |246.974|
 
 
 
-FileInputStream    14602.528         14553.671            14307.540          14487.913
+FileInputStream    |14602.528|         |14553.671|            |14307.540|         |14487.913|
 
 
 
-BufferedInputStream 233.768          236.441              242.119            237.443
+BufferedInputStream 233.768          |236.441|              |242.119|            |237.443|
 
 
 
